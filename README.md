@@ -2,6 +2,9 @@
 
 This is a simple front-end application built using the Flet UI library in Python. The application displays a doughnut with its nutritional information.
 
+![doughnut_card](https://github.com/jazzpujols34/Python-Tutorial-UI-Design-Using-Flet/assets/62235508/6121b706-7342-4434-abfa-b9db6a294529)
+
+
 ## Features
 
 - Displays a doughnut image along with its name.
